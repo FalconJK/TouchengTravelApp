@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_route"
+            android:checked="true"
+            android:icon="@drawable/nav_route"
+            android:title="@string/路線導覽" />
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/nav_location"
+            android:title="@string/景點介紹" />
+        <item
+            android:id="@+id/nav_room"
+            android:checkable="false"
+            android:icon="@drawable/nav_room"
+            android:title="@string/住宿資訊" />
+        <item
+            android:id="@+id/nav_store"
+            android:icon="@drawable/nav_store"
+            android:title="@string/商家合作" />
+        <item
+            android:id="@+id/nav_message"
+            android:icon="@drawable/nav_message"
+            android:title="@string/活動訊息"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_achievement"
+            android:icon="@drawable/nav_achievement"
+            android:title="@string/成就系統" />
+    </group>
+
+    <!--<item android:title="Communicate">-->
+    <!--<menu>-->
+    <!--<item-->
+    <!--android:id="@+id/nav_share"-->
+    <!--android:icon="@drawanav_messagesage"-->
+    <!--android:title="@string/活動訊息" />-->
+    <!--<item-->
+    <!--android:id="@+id/nav_send"-->
+    <!--android:icon="@drawable/ic_menu_send"-->
+    <!--android:title="Send" />-->
+    <!--</menu>-->
+    <!--</item>-->
+
+</menu>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">頭城地質小旅行</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="路線導覽">路線導覽</string>
+    <string name="住宿資訊">住宿資訊</string>
+    <string name="商家合作">商家合作</string>
+    <string name="成就系統">成就系統</string>
+    <string name="活動訊息">活動訊息</string>
+    <string name="景點介紹">景點介紹</string>
+
+    <string name="達人推薦">達人推薦</string>
+    <string name="自由行">自由行</string>
+
+    <string name="json達人推薦">[{"name":"北關海岸鐵馬小旅行","Participant":"親子-國小中高年級以上","Transportation":"腳踏車","Time":"9-10月(週日避開大貨車)","Numers":"約20人","Teacher":"活動講師","Route":"蘭陽博物館→烏石港→外澳社區(2.7公里)→北關海潮公園 (4.5公里) →大里海蝕平台(7.8公里) →大里車站(0.7公里) －總長約16公里","Introduce":"頭城沿著海岸往北騎，地處蘭陽平原的北端在地形上由沙岸轉變為岩岸地形，除外澳沙灘地形外，最具特色的地質景觀依海林立：硬頁岩、鉛筆狀岩石、豆腐岩、單面山及海蝕地形等，網羅了蘭陽北部最具特色的地質景觀，又可遠眺龜山島，可謂賞心悅目的沿海地質一日遊。","Attractions":[{"location":"蘭陽博物館09:00（報30分+導40分+騎10分至下個點）：","detail":"報到+特展導覽","address":""},{"location":"烏石港遺址10:20（導20分+騎20分至下個點）：","detail":"清代烏石港遺址，鼎盛時為蘭陽地區最大的重要商港，因港內有數塊黑色硬頁岩而得名。附近路旁亦有一區防空洞，憑藉烏石的硬度而開鑿而成，甚具特色。重點提示：黑色硬頁岩、泥沙淤積、東北季風","address":""},{"location":"外澳社區11:00（停80分+騎40分至下個點）","detail":"外澳沙灘（30分）＋社區用餐（50分）外澳社區於外澳火車站旁，鄰近外澳沙灘為著名的衝浪據點，海岸分為侵蝕海岸與堆積海岸。其南北兩端以裸露的岩層為界，北面有一規模較小的海蝕平台，節理複雜為地瞉運動擠壓所形成的。","address":""},{"location":"北關海潮公園13:00（導40分+騎70分至下個點）","detail":"北關海潮公園舊稱蘭城公園，可觀賞到單面山、豆腐岩、海蝕平台等特殊造型，為蘭陽八景的”北關海潮”亦是觀賞龜山島的最佳地點。公園內有觀海亭、停車場等，有較大腹地可供休憩導覽。","address":""},{"location":"大里海蝕平台14:50（導60分+騎10分至下個點）","detail":"海蝕平台為海浪淘刷形成的平場岩石，大里附近海蝕平台尤為廣闊，可近距離下至平台觀看特殊海岸地形地質。","address":""},{"location":"大里車站16:00：解散","detail":"車站對面即是有名的慶雲宮，由於頭城大里與草嶺相連，早年翻越古道不易，為求平安常撿石過爐，久之就變成慶雲宮(大里天公廟)\"借膽石”習俗。","address":""}]},{"name":"宜蘭水資源小旅行－溪北篇（水紋地形地貌、民生及產業一網打盡）","Participant":"親子","Transportation":"遊覽車","Time":"12-1月","Numers":"35人","Teacher":"張志清老師、林正芳老師、李光平老師","Route":"蘭陽博物館→礁溪?泉水源頭(8.6公里) →宜蘭酒廠(9公里) →阿蘭城取水井(3公里) →員山螃蟹冒泡(4公里)→深溝淨水廠(4.4公里)","Introduce":"多雨的蘭陽地區水資源充沛，造就許許多多因水而產生的產業來，其中地層構造關係所形成的熱源、地下水造就出知名的?泉產業，而特殊的地理環境更造就出獨特的純淨水質來，除了宜蘭多處的取水井及水源出水口外，進而產生了不少知名的釀酒產業來，因此小旅行希望帶領大家探索什麼樣的地形，可以造就出如此多元的水資源產業來，一窺地質與水之間的密切關係。","Attractions":[{"location":"蘭陽博物館09:00（報30分+導40分+開20分至下個點）","detail":"地質特展導覽","address":""},{"location":"礁溪?泉水源頭/觀測點(福崇寺)10:30（30分+開20分至下個點）","detail":"礁溪?泉涵蓋面積極為廣闊，幾乎包含了礁溪鄉最繁華的地區，其成因為雨水或地表水滲入地層中，經斷層或裂隙構造等通道後，被加熱回流所形成，因此和地層的斷層通過產生裂隙有很大的關係。","address":""},{"location":"宜蘭酒廠13:00（用餐60分＋導40分+開10分至下個點）","detail":"先至酒廠附近先行用餐。具百年歷史的宜蘭酒廠，於民國前二年就已成立，百年代見證了宜蘭特殊地質所產生出的優質釀酒重要成份”水”，而偌大的園區內更保留了不少日治時期的建物，值得花費些許時間漫步其中，感受當時釀酒業的興盛。","address":""},{"location":"阿蘭城(取水井) 13:50（30分+開10分至下個點）","detail":"有阿蘭城秘境之稱的天然湧泉為宜蘭知名的景點，位在大礁溪沖積扇尾端的位置，早於日治時期即在此處鑿井取水，現為指定縣定古蹟。","address":""},{"location":"員山螃蟹冒泡14:30（30分+開10分至下個點）","detail":"圳頭的螃蟹冒泡水池","address":""},{"location":"深溝淨水廠15:10","detail":"","address":""},{"location":"返回蘭陽博物館16:50","detail":"","address":""}]}]</string>
+    <string name="json自由行">自由行</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="館舍">館舍</string>
+    <string name="店家">店家</string>
+    <string name="營業時間">營業時間：</string>
+    <string name="地址">地址：</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_store">StoreActivity</string>
+</resources>

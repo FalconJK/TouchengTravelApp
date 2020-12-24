@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_達人推薦"
+        android:icon="@drawable/navb_free"
+        android:orderInCategory="0"
+        android:title="@string/達人推薦" />
+
+    <item
+        android:id="@+id/navigation_自由行"
+        android:icon="@drawable/navb_backpack"
+        android:orderInCategory="1"
+        android:title="@string/自由行" />
+
+
+</menu>
